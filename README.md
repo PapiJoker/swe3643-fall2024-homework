@@ -1,2 +1,4 @@
-# swe3643-fall2024-homework
-swe3643-fall2024-homework
+# Fall 2024 SWE 3643 Testing and QA Homework
+## Josh Early
+
+- Homework 1: Create a git repo and a simpl unit test.
